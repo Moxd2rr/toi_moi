@@ -28,7 +28,7 @@ noButton.addEventListener('click', () => {
 });
 
 yesButton.addEventListener('click', () => {
-    questionElement.textContent = "Youpi ! Tu es ma Valentine ! 💖";
+    questionElement.textContent = "Merci à toi ma futur Femme 💖";
     valentineImage.src = "decoratif-love-you-typographie-police-ludique-fond-blanc-illustration_1090394-65554.webp";
     yesButton.style.display = "none";
     noButton.style.display = "none";
